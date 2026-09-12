@@ -371,7 +371,7 @@ I'm interested in **Artificial Intelligence, Data Science, Generative AI, Machin
 
 Open to **collaborations, AI/Data projects, internships and professional opportunities**.
 
-<br>
+<br><br>
 
 <a href="mailto:robbanaamenallah@gmail.com">
   <img src="https://img.shields.io/badge/Email-robbanaamenallah%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -383,6 +383,10 @@ Open to **collaborations, AI/Data projects, internships and professional opportu
 
 <a href="https://robbanaamenallah.github.io/">
   <img src="https://img.shields.io/badge/Portfolio-View%20My%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="tel:+21695612913">
+  <img src="https://img.shields.io/badge/Phone-%2B216%2095%20612%20913-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 <br><br>
