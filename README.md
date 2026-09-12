@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" alt="Amenallah Robbana — AI & Data Science" width="100%" />
+</p>
 <div align="center">
 
 # Hi, I'm Amenallah Robbana 👋
